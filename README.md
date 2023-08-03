@@ -1,6 +1,6 @@
 # Arduino Access Control System with Keypad and Fingerprint Sensor R305
 
-![Access Control System](access_control_system.jpg)
+![Access Control System](https://github.com/MAzewail/Password-Fingerprint/blob/main/Capture.PNG)
 
 This repository contains the source code and documentation for an Arduino-based access control system. The system utilizes a keypad and a fingerprint sensor (R305) to provide secure access to a physical location or device.
 
